@@ -1,0 +1,7 @@
+D:\学习\C#\Homework6\Problem8\bin\Debug\Problem8.exe.config
+D:\学习\C#\Homework6\Problem8\bin\Debug\Problem8.exe
+D:\学习\C#\Homework6\Problem8\bin\Debug\Problem8.pdb
+D:\学习\C#\Homework6\Problem8\obj\Debug\Problem8.csprojAssemblyReference.cache
+D:\学习\C#\Homework6\Problem8\obj\Debug\Problem8.csproj.CoreCompileInputs.cache
+D:\学习\C#\Homework6\Problem8\obj\Debug\Problem8.exe
+D:\学习\C#\Homework6\Problem8\obj\Debug\Problem8.pdb
